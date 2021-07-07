@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-size:inherit;
+    background-image: url("fhd.jpg");
+    box-sizing: border-box;
+    
+}
+body{
+   
+}
+h1{
+    text-align: center;
+    height: 5cm;
+    color: white;
+    text-shadow: 2px 2px greenyellow;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+
+    
+}
